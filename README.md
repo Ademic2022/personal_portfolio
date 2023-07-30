@@ -40,7 +40,7 @@ You can build your project by forking this CodePen pen. Or you can use this CDN 
 Once you're done, submit the URL to your working project with all its tests passing.
 
 ## Live Site (solution)
-[https://freecodecamp-solutions.github.io/Personal-Portfolio-Webpage/](https://freecodecamp-solutions.github.io/Personal-Portfolio-Webpage/)
+[https://freecodecamp-solutions.github.io/Personal-Portfolio-Webpage/]()
 
 
 Feel free to reach out to me for collaboration or any inquiries!
